@@ -1,0 +1,39 @@
+body
+{
+background-image:url("c4.gif");
+ background-position: center;
+ background-repeat: no-repeat;
+
+}
+.nevBar ul{
+    
+    height: 20px;
+    
+
+}
+
+.nevBar li{
+    list-style: none;
+    margin:25px;
+    padding-top: 0;
+    float: right;   
+}
+
+.nevBar li a:hover{
+    
+    color: rgb(171, 250, 53);
+}
+
+.nevBar ul li a {
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+   
+    font-size: larger;
+}
+.top-logo{
+    float: left;
+
+}
+
